@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deekshanacs
-- 👀 I’m interested in coding and extempore and public speaking
+- 👀 I’m good at extempore and public speaking moreover I'm very much interested in coding 
 -🌱 I’m currently pursiung B.E Artifical Intelligence and Machine Learning...
   
 
