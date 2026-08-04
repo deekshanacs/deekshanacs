@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Dynamic Banner -->
-  <img src="assets/banner.png" alt="Deekshana's Banner" width="100%" style="border-radius: 10px;">
+  <img src="assets/banner.svg" alt="Deekshana's Banner" width="100%" style="border-radius: 10px;">
   
   <br/><br/>
   
