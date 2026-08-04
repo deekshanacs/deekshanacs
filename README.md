@@ -68,19 +68,15 @@ Here are some of the key projects I've built or am currently developing:
 
 ### 📄 **PaperPilot-AI** (AI-powered Research Paper Pilot SaaS)
 An AI-powered SaaS application that helps researchers upload documents, query papers, extract summaries, and draft manuscripts seamlessly.
-* **Stack:** FastAPI (Python backend), React/Next.js (Frontend), SQLite/PostgreSQL, LLM integration, Docker.
 
 ### 🤖 **Cholan** (Agro-based Bot)
 An autonomous agricultural robot designed to assist farmers. It handles tasks like soil monitoring, weed detection, and smart watering.
-* **Stack:** Python, IoT, OpenCV (computer vision), Arduino/Raspberry Pi.
 
 ### 🛡️ **SheGuard-AI** (Lightweight Women's Safety Platform)
 A lightweight women's safety platform built to provide quick assistance tools, emergency contacts, and real-time location sharing.
-* **Stack:** HTML, CSS, JavaScript, Bootstrap.
 
 ### 👁️ **Velox Vision** (High-Performance Computer Vision)
 A high-performance computer vision system designed for real-time object detection, tracking, and high-speed visual data analysis.
-* **Stack:** Python, OpenCV, PyTorch, CUDA.
 
 ---
 
