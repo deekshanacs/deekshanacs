@@ -1,4 +1,4 @@
-# Hi there, I'm Deekshana C S! 👋
+
 
 <div align="center">
   <!-- Dynamic Banner -->
