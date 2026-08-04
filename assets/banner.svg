@@ -25,7 +25,7 @@
       
       .main-title {
         font-family: 'Montserrat', 'Arial Black', sans-serif;
-        font-size: 110px;
+        font-size: 105px;
         font-weight: 900;
         fill: #f5f5f7;
         letter-spacing: -6px;
@@ -63,6 +63,21 @@
     <line x1="880" y1="130" x2="880" y2="310" />
   </g>
 
+  <!-- High-Tech Circuit Path Accents on Frame -->
+  <g stroke="#00ffcc" stroke-opacity="0.35" stroke-width="1.5" fill="none">
+    <!-- Top left circuit extension -->
+    <circle cx="160" cy="130" r="3.5" fill="#00ffcc" fill-opacity="0.5" />
+    <line x1="160" y1="130" x2="200" y2="130" />
+    <line x1="200" y1="130" x2="215" y2="145" />
+    <circle cx="215" cy="145" r="2" fill="#00ffcc" fill-opacity="0.5" stroke="none" />
+
+    <!-- Bottom right circuit extension -->
+    <circle cx="840" cy="310" r="3.5" fill="#00ffcc" fill-opacity="0.5" />
+    <line x1="840" y1="310" x2="800" y2="310" />
+    <line x1="800" y1="310" x2="785" y2="295" />
+    <circle cx="785" cy="295" r="2" fill="#00ffcc" fill-opacity="0.5" stroke="none" />
+  </g>
+
   <!-- Frame Corner Decor (Crop marks) -->
   <!-- Top Left -->
   <rect x="114" y="124" width="12" height="12" fill="#ffffff" fill-opacity="0.85" />
@@ -80,25 +95,57 @@
   <rect x="874" y="304" width="12" height="12" fill="#ffffff" fill-opacity="0.85" />
   <circle cx="871" cy="301" r="3" fill="#ffffff" fill-opacity="0.85" />
 
+  <!-- Floating Creative Computer Elements -->
+  <!-- 1. Laptop on the Left -->
+  <g transform="translate(135, 175) scale(0.65)" stroke="#00ffcc" stroke-opacity="0.45" stroke-width="2" fill="none">
+    <!-- Laptop Screen -->
+    <rect x="10" y="10" width="80" height="50" rx="4" />
+    <line x1="15" y1="52" x2="85" y2="52" stroke-opacity="0.2" />
+    <!-- Laptop Base -->
+    <path d="M0,60 L100,60 L90,68 L10,68 Z" fill="#161b22" />
+    <line x1="45" y1="64" x2="55" y2="64" stroke-width="3" />
+    <!-- Code lines on screen -->
+    <line x1="20" y1="22" x2="50" y2="22" stroke="#ff79c6" stroke-opacity="0.6" stroke-width="2" />
+    <line x1="20" y1="30" x2="70" y2="30" stroke="#00ffcc" stroke-opacity="0.6" stroke-width="2" />
+    <line x1="20" y1="38" x2="40" y2="38" stroke="#58a6ff" stroke-opacity="0.6" stroke-width="2" />
+  </g>
+
+  <!-- 2. Desktop Monitor on the Right -->
+  <g transform="translate(785, 175) scale(0.65)" stroke="#58a6ff" stroke-opacity="0.45" stroke-width="2" fill="none">
+    <!-- Monitor Screen -->
+    <rect x="10" y="5" width="80" height="52" rx="5" />
+    <!-- Stand -->
+    <path d="M40,57 L35,70 L65,70 L60,57 Z" fill="#161b22" />
+    <!-- Matrix/Graph layout on screen -->
+    <path d="M20,40 Q35,20 50,35 T80,15" stroke="#00ffcc" stroke-opacity="0.6" stroke-width="2" />
+    <circle cx="50" cy="35" r="3" fill="#ff79c6" stroke="none" />
+    <circle cx="80" cy="15" r="3" fill="#58a6ff" stroke="none" />
+  </g>
+
   <!-- Centered Name with Layered Shadow Effect (Rendered right-to-left for correct left-on-right overlap) -->
   <g class="main-title" dominant-baseline="middle">
-    <text x="715" y="215" filter="url(#shadow)">a</text>
-    <text x="655" y="215" filter="url(#shadow)">n</text>
-    <text x="595" y="215" filter="url(#shadow)">a</text>
-    <text x="532" y="215" filter="url(#shadow)">h</text>
-    <text x="477" y="215" filter="url(#shadow)">s</text>
-    <text x="417" y="215" filter="url(#shadow)">k</text>
-    <text x="357" y="215" filter="url(#shadow)">e</text>
-    <text x="297" y="215" filter="url(#shadow)">e</text>
-    <text x="232" y="215" filter="url(#shadow)">d</text>
+    <!-- C S -->
+    <text x="752" y="215" filter="url(#shadow)">S</text>
+    <text x="702" y="215" filter="url(#shadow)">C</text>
+    
+    <!-- Deekshana -->
+    <text x="637" y="215" filter="url(#shadow)">a</text>
+    <text x="587" y="215" filter="url(#shadow)">n</text>
+    <text x="537" y="215" filter="url(#shadow)">a</text>
+    <text x="482" y="215" filter="url(#shadow)">h</text>
+    <text x="427" y="215" filter="url(#shadow)">s</text>
+    <text x="377" y="215" filter="url(#shadow)">k</text>
+    <text x="327" y="215" filter="url(#shadow)">e</text>
+    <text x="277" y="215" filter="url(#shadow)">e</text>
+    <text x="217" y="215" filter="url(#shadow)">D</text>
   </g>
 
   <!-- Bottom Subtitle Section -->
   <!-- Name (Left) -->
-  <text x="145" y="348" class="sub-title-left">deekshana c s</text>
+  <text x="145" y="348" class="sub-title-left">Deekshana C S</text>
   
   <!-- Line separator -->
-  <line x1="290" y1="342" x2="615" y2="342" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1.5" />
+  <line x1="300" y1="342" x2="615" y2="342" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1.5" />
   
   <!-- Role (Right) -->
   <text x="640" y="348" class="sub-title-right">AI / ML Developer • Programmer</text>
