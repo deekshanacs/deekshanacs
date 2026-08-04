@@ -7,7 +7,7 @@
   <br/><br/>
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Developer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%92%BB;Secretary+of+AEVA+%E2%9C%A8;Robotics+%26+IoT+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Developer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%92%BB;Former+Secretary+of+AEVA+%E2%9C%A8" alt="Typing SVG" />
   
   <br/>
   
@@ -27,11 +27,11 @@
 
 ## 💫 About Me
 
-I am a passionate developer, research scholar, and leader specializing in **Artificial Intelligence, Machine Learning, and Full-Stack Web Development**. I love bridging the gap between software engineering and physical systems, which has led me to explore exciting domains in **Robotics & IoT**, such as autonomous agricultural bots and assistive biomedical technologies. 
+I am a passionate developer, research scholar, and leader specializing in **Artificial Intelligence, Machine Learning, and Full-Stack Web Development**. 
 
 Beyond coding, I'm an active book reviewer, public speaker, and master of ceremonies, bringing energy and coordination to technical communities.
 
-- 🎓 **Secretary** of **AEVA** (Artificial Intelligence and Machine Learning Empowered Visionary Alliance) at **K. S. Rangasamy College of Technology**.
+- 🎓 **Former Secretary** of **AEVA** (Artificial Intelligence and Machine Learning Empowered Visionary Alliance) at **K. S. Rangasamy College of Technology**.
 - 🚀 Always building, exploring, and contributing to open-source software.
 - 💡 Interested in using AI and deep learning to build tools that solve real-world problems.
 - 🔍 Current Focus: Building SaaS applications powered by Large Language Models.
@@ -74,7 +74,7 @@ An AI-powered SaaS application that helps researchers upload documents, query pa
 An autonomous agricultural robot designed to assist farmers. It handles tasks like soil monitoring, weed detection, and smart watering.
 * **Stack:** Python, IoT, OpenCV (computer vision), Arduino/Raspberry Pi.
 
-### 🛡️ **SafeHer** (Lightweight Women's Safety Platform)
+### 🛡️ **SheGuard-AI** (Lightweight Women's Safety Platform)
 A lightweight women's safety platform built to provide quick assistance tools, emergency contacts, and real-time location sharing.
 * **Stack:** HTML, CSS, JavaScript, Bootstrap.
 
