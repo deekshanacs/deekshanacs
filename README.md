@@ -78,9 +78,9 @@ An autonomous agricultural robot designed to assist farmers. It handles tasks li
 A lightweight women's safety platform built to provide quick assistance tools, emergency contacts, and real-time location sharing.
 * **Stack:** HTML, CSS, JavaScript, Bootstrap.
 
-### 🦾 **3D-Printed Prosthetic Hands**
-A low-cost, functional prosthetic limb system combining biomedical engineering and 3D printing technology to make assistive devices accessible.
-* **Stack:** 3D Design (CAD), Arduino, Bio-sensors.
+### 👁️ **Velox Vision** (High-Performance Computer Vision)
+A high-performance computer vision system designed for real-time object detection, tracking, and high-speed visual data analysis.
+* **Stack:** Python, OpenCV, PyTorch, CUDA.
 
 ---
 
